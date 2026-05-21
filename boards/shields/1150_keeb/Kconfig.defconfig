@@ -1,0 +1,6 @@
+if SHIELD_1150_KEEB
+
+config ZMK_KEYBOARD_NAME
+    default "1150 Keeb"
+
+endif
